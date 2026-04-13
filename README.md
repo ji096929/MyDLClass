@@ -6,11 +6,13 @@
 
 *COURSE · 2025 / 2026 · 春季*
 
-[![Stars](https://img.shields.io/github/stars/your-username/MyDL?style=flat-square&color=orange)](https://github.com/your-username/MyDL/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/课程网站-hacilab.top%2Fmydl-green?style=flat-square)](https://www.hacilab.top/mydl/)
 
-</div>
+# 课件材料等请访问 [![Website](https://img.shields.io/badge/课程网站-hacilab.top%2Fmydl-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hacilab.top/mydl/)
+
+
+## ⭐ Star 支持
+
+如果这个学习材料对你有帮助，欢迎点击右上角 ⭐ **Star** 支持！你的鼓励是持续更新的动力 :)
 
 ---
 
@@ -22,11 +24,6 @@
 
 ---
 
-## ⭐ Star 支持
-
-如果这个学习材料对你有帮助，欢迎点击右上角 ⭐ **Star** 支持！你的鼓励是持续更新的动力 :)
-
----
 
 ## 📋 课程信息
 
