@@ -1,0 +1,5 @@
+# MyDL 课程 notebook 最小依赖（Ch1–Ch14 通用）
+torch>=2.2,<3
+lightning[pytorch]>=2.2,<3
+matplotlib>=3.8
+ipykernel>=6.29
